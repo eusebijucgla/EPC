@@ -1,0 +1,9 @@
+{
+    "hpath": "$EPC",
+
+    "env": [
+        {
+            "EPC": "F:/eusebijucgla/Workshops/EPC"
+        }
+    ]
+}
